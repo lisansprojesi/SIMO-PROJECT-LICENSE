@@ -1,0 +1,63 @@
+SIMO PROJECT LICENSE (SIMO PROJESİ LİSANSI - v1.0)
+
+Telif Hakkı (c) [YIL] [Mustafa Can Öksüz / Ozgursimo]
+
+1. LİSANS HAKKINDA
+
+Bu lisans (Simo Projesi Lisansı), yazılımın ticari ve bireysel gelişim için özgürce kullanılmasını teşvik ederken, şiddet, savaş ve askeri faaliyetlerde kullanılmasını kesinlikle yasaklar.
+
+2. İZİNLER (HAKLAR)
+
+İşbu lisans metni ile, bu yazılımın ve ilgili belgelerin ("Yazılım") bir kopyasını elde eden herhangi bir kişiye; Yazılımı kullanma, kopyalama, değiştirme, birleştirme, yayımlama, dağıtma, alt lisanslama ve/veya kopyalarını satma hakkı, aşağıdaki "KISITLAMALAR" bölümüne uyulması şartıyla bedelsiz olarak verilir.
+
+Bu izinler şunları açıkça kapsar:
+
+-Bireysel ve Eğlence Amaçlı Kullanım: Kişisel projeler, oyun, eğlence, eğitim ve hobi amaçlı her türlü kullanım.
+
+-Ticari Kullanım: Sivil amaçlı ticari ürünler, alım-satım, SaaS hizmetleri ve şirket içi kullanımlar.
+
+-Değiştirme ve Yeniden Markalama (Rebranding): Yazılımın adını değiştirerek, kendi markası altında satma, pazarlama ve kapalı kaynak (proprietary) bir ürüne entegre etme hakkı.
+
+3. KISITLAMALAR (YASAKLAR)
+
+Yukarıdaki izinler, Yazılımın (veya bu Yazılımdan türetilen herhangi bir değiştirilmiş sürümün) aşağıdaki amaçlarla veya aşağıdaki kuruluşlar tarafından kullanılması durumunda GEÇERSİZDİR ve lisans otomatik olarak feshedilir:
+
+A. Askeri ve Yarı-Askeri Kullanım Yasağı
+
+Bu Yazılım;
+
+1.Herhangi bir ulusal veya uluslararası silahlı kuvvet (ordu),
+
+2.İstihbarat teşkilatları,
+
+3.Özel Askeri Şirketler (PMC) veya savunma sanayi yüklenicileri,
+tarafından doğrudan veya dolaylı olarak kullanılamaz.
+
+B. Şiddet ve Silahlanma Yasağı
+
+Bu Yazılım;
+
+1.Öldürücü veya öldürücü olmayan silahların geliştirilmesi, üretimi, bakımı veya hedeflenmesi,
+
+2.Savaş, işgal veya silahlı çatışma faaliyetlerinin desteklenmesi,
+
+3.İşkence veya insan hakları ihlallerine yol açabilecek gözetim sistemleri,
+amacıyla kullanılamaz.
+
+4. LİSANSIN DEVAMLILIĞI VE BİLDİRİM
+
+1.Telif Hakkı Bildirimi: Yazılımın kaynak kodunda bulunan telif hakkı bildirimi (Mustafa Can Öksüz / Ozgursimo) korunmalıdır.
+
+2.Yasakların Devamlılığı: Bu Yazılım değiştirilse, yeniden markalansa veya başka bir yazılımla birleştirilse dahi, ortaya çıkan yeni ürün Madde 3'teki (Kısıtlamalar) yasaklara tabi olmaya devam eder. Hiçbir kullanıcı, lisansı değiştirerek bu askeri kullanım yasaklarını kaldıramaz.
+
+5. İHLAL VE YASAL YAPTIRIM
+
+İşbu lisansın, özellikle 3. maddede belirtilen "Kısıtlamalar"ın ihlal edildiğinin veya yasaklanan alanlarda kullanıldığının tespit edilmesi halinde:
+
+1.Lisans derhal ve ihtara gerek kalmaksızın feshedilir.
+
+2.Telif hakkı sahibi, lisans ihlalinden kaynaklanan maddi ve manevi zararların tazmini için yerel ve uluslararası hukuk çerçevesinde her türlü yasal yola başvurma hakkını saklı tutar.
+
+6. SORUMLULUK REDDİ (GARANTİ YOKTUR)
+
+YAZILIM "OLDUĞU GİBİ" SUNULMAKTADIR. TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME GARANTİLERİ DAHİL OLMAK ÜZERE ANCAK BUNLARLA SINIRLI OLMAMAK KAYDIYLA, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERİLMEZ.
