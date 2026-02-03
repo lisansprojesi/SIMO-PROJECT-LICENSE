@@ -28,7 +28,7 @@ Bu lisansı kendi projenizde kullanmak tamamen ücretsiz ve serbesttir. Dünyan�
 
 Adım 1: Lisans Dosyasını Ekleyin
 
-Projenizin ana dizinine LICENSE (veya LICENSE.md) adında bir dosya oluşturun ve buradaki lisans metnini kopyalayıp yapıştırın.
+Projenizin ana dizinine LICENSE (veya LICENSE.md) adında bir dosya oluşturun ve bu repodaki lisans metnini kopyalayıp yapıştırın.
 
 Adım 2: Bilgileri Düzenleyin
 
@@ -37,13 +37,14 @@ Kopyaladığınız metnin en üstündeki şu kısmı kendi bilgilerinizle deği�
 Telif Hakkı (c) [YIL] [ADINIZ VEYA ŞİRKET ADINIZ]
 
 
-Örneğin: Telif Hakkı (c) 2026 Ahmet Yılmaz
+Örneğin: Telif Hakkı (c) 2026 Mustafa Can Öksüz
 
-Adım 3: README Dosyanıza Belirtin
+Adım 3: Rozeti README Dosyanıza Ekleyin
 
-Projenizin README.md dosyasına şu ibareyi eklemeniz tavsiye edilir:
+Projenizin README.md dosyasının en üstüne şu kodu ekleyerek lisansınızı gösterebilirsiniz:
 
-🛡️ Bu proje Simo Project License ile lisanslanmıştır. Ticari ve bireysel kullanım serbesttir; ancak askeri ve şiddet amaçlı kullanım kesinlikle yasaktır.
+[![License: SPL](https://img.shields.io/badge/License-Simo_Project-green.svg)](https://github.com/lisansprojesi/SIMO-PROJECT-LICENSE)
+
 
 🤝 Katkıda Bulunma (Contributing)
 
