@@ -46,15 +46,31 @@ Projenizin README.md dosyasının en üstüne şu kodu ekleyerek lisansınızı 
 [![License: SPL](https://img.shields.io/badge/License-Simo_Project-green.svg)](https://github.com/lisansprojesi/SIMO-PROJECT-LICENSE)
 
 
+🌍 English Summary (For International Users)
+
+Simo Project License (SPL) is an ethical source license that allows free commercial and individual use while strictly prohibiting military, surveillance, and violence-related applications.
+
+✅ Commercial Use: Allowed.
+
+✅ Personal & Fun: Allowed.
+
+✅ Rebranding: Allowed.
+
+🚫 Military Use: FORBIDDEN.
+
+🚫 Violence: FORBIDDEN.
+
+📄 Click here to read the Full License in English (LICENSE_EN)
+
 🤝 Katkıda Bulunma (Contributing)
 
 Bu lisans metni topluluk katkısına açıktır! Eğer metinde hukuki bir açık, çeviri hatası veya geliştirilebilecek bir alan görüyorsanız:
 
-Bu repoyu Fork'layın.
+1.Bu repoyu Fork'layın.
 
-Önerdiğiniz değişiklikleri yapın.
+2.Önerdiğiniz değişiklikleri yapın.
 
-Bir Pull Request (PR) gönderin.
+3.Bir Pull Request (PR) gönderin.
 
 Tüm tartışmalar ve fikir alışverişleri için "Issues" sekmesini kullanabilirsiniz.
 
